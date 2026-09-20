@@ -19,7 +19,7 @@ Projeyi bilgisayarınıza indirip terminal üzerinden hemen çalıştırabilirsi
 
 ```bash
 # Projeyi klonlayın
-git clone https://github.com/KULLANICI_ADINIZ/AdvancedPython.git
+git clone https://github.com/tunahanbucak/AdvancedPython.git
 
 # Proje dizinine gidin
 cd AdvancedPython
